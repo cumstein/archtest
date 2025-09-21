@@ -101,7 +101,7 @@ export default function BuildingExperience() {
                 />
                 <button
                   className="hotspot block mb-4 w-full h-32 bg-cover bg-center"
-                  style={{ backgroundImage: "url('/images/project2.jpg')" }}
+                  style={{ backgroundImage: "url('/images/project2.jpg" }}
                   aria-label="Open project 2"
                 />
               </div>
